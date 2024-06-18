@@ -1,0 +1,1 @@
+INSERT INTO Customer(name,surname,gender,status) values('juan','perez','M','A')
